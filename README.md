@@ -1,4 +1,4 @@
-# CountPP.user.js
+# CountPP
 ## 概要
 ジムリーダーの城の対戦ログの技のPPを数えるGreasemonkey拡張スクリプトです。技名の後ろに [残りPP/最大PP] を挿入します。
 
