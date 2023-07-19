@@ -3,7 +3,7 @@
 // @namespace       gengar.hatenadiary.org
 // @include         http://psense.lib.net/PBS/_/*/LLOG.html*
 // @include         http://psense.lib.net/PBS/_/*/PS.cgi?ACTION=LLOG*
-// @version         1.0.0
+// @version         1.0.1
 // @grant           none
 // ==/UserScript==
 
