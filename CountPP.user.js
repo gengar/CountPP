@@ -67,7 +67,7 @@ function normalizeNobashi(str) {
 class Move {
   constructor(spec, mimicked) {
     this.spec = spec;
-    this.pp = mimicked ? 5 : spec.pp;
+    this.pp = mimicked ? 8 : spec.pp;
   }
   get name() {
     return this.spec.name;
